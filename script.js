@@ -10,7 +10,7 @@ const app = new Vue ({
   mounted(){
     this.getAPI();
   },
-  
+
   methods:{
     getAPI(){
       axios.get(this.apiURL)
