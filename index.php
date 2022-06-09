@@ -1,6 +1,8 @@
 <?php 
 
+/* Importo il mio Database */
 require_once __DIR__ . '/database.php';
+/* /Importo il mio Database */
 
 ?>
 
@@ -10,7 +12,7 @@ require_once __DIR__ . '/database.php';
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>PHP Ajax Dischi</title>
+  <title>PHP Ajax Dischi - M1</title>
   <link rel="stylesheet" href="style.css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" integrity="sha512-9usAa10IRO0HhonpyAIVpjrylPvoDwiPUiKdWk5t3PyolY1cOd4DSE0Ga+ri4AuTroPR5aQvXU9xC6qOPnzFeg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 </head>
@@ -43,6 +45,7 @@ require_once __DIR__ . '/database.php';
   </header>
 
   <main>
+
     <!-- Stampo le mie card tramite PHP con un Database esterno -->
     <div class="card-container w-70">
 
@@ -63,6 +66,7 @@ require_once __DIR__ . '/database.php';
 
     </div>
     <!-- /Stampo le mie card tramite PHP con un Database esterno -->
+
   </main>
 
 </body>

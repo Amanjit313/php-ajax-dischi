@@ -2,7 +2,7 @@
 
 $response = [
   [
-      'poster' => 'https://www.onstageweb.com/wp-content/uploads/2018/09/bon-jovi-new-jersey.jpg',
+      'poster' => 'https://www.onstageweb.com/wp-content/uploads/2018/09/bon-jovi-new-jersey.jpg?F2AE4FF2-0150-1F4D-927A-7343C428D49B_kis_cup_C6FA3ED5_6D17_47D1_B6E2_F4B02CC905E0_',
       'title' => 'New Jersey',
       'author' => 'Bon Jovi',
       'genre' => 'Rock',
@@ -30,7 +30,7 @@ $response = [
       'year' => '2018'
   ],
   [
-      'poster' => 'https://images-na.ssl-images-amazon.com/images/I/810nSIQOLiL._SY355_.jpg"',
+      'poster' => 'https://images-na.ssl-images-amazon.com/images/I/810nSIQOLiL._SY355_.jpg', 
       'title' => 'Brave new World',
       'author' => 'Iron Maiden',
       'genre' => 'Metal',
@@ -67,7 +67,7 @@ $response = [
   [
       'poster' => 'https://m.media-amazon.com/images/I/71K9CbNZPsL._SS500_.jpg',
       'title' => 'Bad',
-      'author' => 'Michael Jacjson',
+      'author' => 'Michael Jackson',
       'genre' => 'Pop',
       'year' => '1987'
   ]
